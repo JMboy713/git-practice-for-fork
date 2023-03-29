@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: djdf
+=======
+coach: like
+>>>>>>> conflict-2
 
 members:
 - Linda
